@@ -1,0 +1,6 @@
+This is to pull the code from already created repos in the git hub:
+
+Copy the code from Code -> https.....
+
+git clone paste the copied code here
+
