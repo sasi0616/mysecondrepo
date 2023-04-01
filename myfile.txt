@@ -7,3 +7,5 @@ git clone paste the copied code here
 just checking from VSC
 
 just checking from gitrepo
+
+Checking the commit from VS code for auto build in jenkins on 1St April
