@@ -9,3 +9,5 @@ just checking from VSC
 just checking from gitrepo
 
 Checking the commit from VS code for auto build in jenkins on 1St April
+
+Checking the same for auto trigger on 2nd April....
